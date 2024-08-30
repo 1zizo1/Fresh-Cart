@@ -1,0 +1,12 @@
+
+.navLink{
+    transition: 0.5s;
+}
+i:hover{
+    color: rgb(11, 153, 75);
+}
+.navLink:hover{
+    background-color: #fff;
+    border-bottom: 1px solid  black;
+
+}
