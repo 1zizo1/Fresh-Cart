@@ -102,7 +102,7 @@ useEffect(() => {
   </table>
      <div className='flex justify-end pe-10'> 
       <span className=' w-1/5 pe-10'>
-      <Link to={'/CheckOut'} className='btn cursor-pointer text-center'>
+      <Link to={'/CheckOut'} className='btn cursor-pointer text-center text-nowrap'>
         Check out
       </Link>
       </span>
